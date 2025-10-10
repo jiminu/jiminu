@@ -11,9 +11,9 @@ greeting.txt
 ~/jiminu$ cat greeting.txt
 Hello, world!
 
-Welcome to my github.
+Welcome to my GitHub.
 
-Actually, there is nothing special. 
+Feel free to look around.
 
 Have a good day!
 ```
