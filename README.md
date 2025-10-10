@@ -8,7 +8,7 @@ jiminu
 ~/jiminu$ ls
 greeting.txt
 
-~/jiminu$ vim greeting.txt
+~/jiminu$ cat greeting.txt
 Hello, world!
 
 Welcome to my github.
