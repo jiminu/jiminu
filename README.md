@@ -6,7 +6,7 @@ jiminu
 ~$ cd jiminu
 
 ~/jiminu$ ls
-greeting.txt
+greeting.txt  jiminu.github.io
 
 ~/jiminu$ cat greeting.txt
 Hello, world!
